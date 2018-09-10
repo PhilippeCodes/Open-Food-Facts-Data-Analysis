@@ -1,5 +1,5 @@
-# Open-Food-Facts-Data-Analysis-EPFL-Project-2-
-We will be analyzing the Open Food Facts Dataset as Part of The EPFL Applied Machine Learning Course. The purpose of this project is to exercise and demonstrate acquired abilities. Should the person who is looking at this analysis have any questions or suggestions, do not hesitate to contact me.
+# Open-Food-Facts-Data-Analysis-
+We will be analyzing the Open Food Facts Dataset as Part of The EPFL Applied Machine Learning Course (Project 2). The purpose of this project is to exercise and demonstrate acquired abilities. Should the person who is looking at this analysis have any questions or suggestions, do not hesitate to contact me.
 
 ## The Data
 The actual file is too large (>1GB) in order to be added to this repository. However, it can easily be found and downloaded here: https://www.kaggle.com/openfoodfacts/world-food-facts/downloads/en.openfoodfacts.org.products.tsv/5 <br>
